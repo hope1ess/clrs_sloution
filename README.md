@@ -26,3 +26,9 @@
 |exericse|state|
 |   ---  | --- |
 |[6.1-1](./chap6/Exercises/6.1-1.md)|✅|
+|[6.1-2](./chap6/Exercises/6.1-2.md)|✅|
+|[6.2-1](./chap6/Exercises/6.2-1.md)|✅|
+|[6.2-3](./chap6/Exercises/6.2-3.md)|✅|
+|[6.2-4](./chap6/Exercises/6.2-4.md)|✅|
+|[6.2-5](./chap6/Exercises/6.2-5.md)|✅|
+|[6.2-6](./chap6/Exercises/6.2-6.md)|✅|
