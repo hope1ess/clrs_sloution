@@ -32,3 +32,4 @@
 |[6.2-4](./chap6/Exercises/6.2-4.md)|✅|
 |[6.2-5](./chap6/Exercises/6.2-5.md)|✅|
 |[6.2-6](./chap6/Exercises/6.2-6.md)|✅|
+|[6.3-1](./chap6/Exercises/6.3-1.md)|✅|
